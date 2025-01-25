@@ -1,0 +1,25 @@
+{
+  "name": "ajarn-kun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChinnaphatLoha/ajarn-kun.git"
+  },
+  "author": "ผู้พิชิตฮี",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChinnaphatLoha/ajarn-kun/issues"
+  },
+  "homepage": "https://github.com/ChinnaphatLoha/ajarn-kun#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7",
+    "openai": "^4.80.1"
+  }
+}
